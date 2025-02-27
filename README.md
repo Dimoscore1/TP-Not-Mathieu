@@ -1,4 +1,4 @@
-# TP-Not-Mathieu
+# TP-Noté-Mathieu
 TP test\
 TP - TDD\
 Fabien Le Bronnec\
@@ -54,4 +54,4 @@ On peut aussi consulter l’’historique des réservations pour un adhérent.\
 Il est possible de demander un mail de rappel pour toutes les réservations qui ont dépassé
 leur date.\
 Chaque adhérent ne reçoit qu’un seul mail avec la liste de ses réservations dépassées s’il y
-en a plusieurs.\
+en a plusieurs.
